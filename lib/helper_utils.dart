@@ -1,4 +1,4 @@
-import 'package:flutter_native_splash/enums.dart';
+import 'package:flutter_native_splash_ejsilva/enums.dart';
 
 class HelperUtils {
   const HelperUtils._();

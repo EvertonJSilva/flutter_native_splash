@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:flutter_native_splash/remove_splash_from_web.dart';
+import 'package:flutter_native_splash_ejsilva/remove_splash_from_web.dart';
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
 // In order to *not* need this ignore, consider extracting the "web" version
 // of your plugin as a separate package, instead of inlining it in the same

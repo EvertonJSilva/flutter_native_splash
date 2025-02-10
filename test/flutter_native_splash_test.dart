@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:flutter_native_splash/cli_commands.dart';
+import 'package:flutter_native_splash_ejsilva/cli_commands.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:path/path.dart' as p;
 

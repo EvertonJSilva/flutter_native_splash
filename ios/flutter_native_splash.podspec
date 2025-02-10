@@ -17,7 +17,7 @@ Customize Flutter's default white native splash screen with background color and
   s.public_header_files = 'flutter_native_splash/Sources/flutter_native_splash/include/**/*.h'
   s.dependency 'Flutter'
   s.platform = :ios, '9.0'
-  s.resource_bundles = {'flutter_native_splash_privacy' => ['flutter_native_splash/Sources/flutter_native_splash/PrivacyInfo.xcprivacy']}
+  s.resource_bundles = {'flutter_native_splash_privacy' => ['flutter_native_splash/Sources/flutter_native_splash/Resources/PrivacyInfo.xcprivacy']}
 
   # Flutter.framework does not contain a i386 slice.
   s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES', 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386' }

@@ -1,4 +1,4 @@
-import 'package:flutter_native_splash/helper_utils.dart';
+import 'package:flutter_native_splash_ejsilva/helper_utils.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
