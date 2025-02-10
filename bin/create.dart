@@ -1,9 +1,9 @@
 import 'dart:io';
 
 import 'package:args/args.dart';
-import 'package:flutter_native_splash/cli_commands.dart';
-import 'package:flutter_native_splash/enums.dart';
-import 'package:flutter_native_splash/helper_utils.dart';
+import 'package:flutter_native_splash_ejsilva/cli_commands.dart';
+import 'package:flutter_native_splash_ejsilva/enums.dart';
+import 'package:flutter_native_splash_ejsilva/helper_utils.dart';
 
 void main(List<String> args) {
   final parser = ArgParser();
