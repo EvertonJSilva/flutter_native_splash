@@ -3,7 +3,7 @@
 # Run `pod lib lint flutter_native_splash.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_native_splash'
+  s.name             = 'flutter_native_splash_ejsilva'
   s.version          = '2.4.3'
   s.summary          = 'Flutter Native Splash'
   s.description      = <<-DESC
